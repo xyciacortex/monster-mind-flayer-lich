@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-mind-flayer-lich
+  x-cortex-tag: monster-mind-flayer-lich
+x-cortex-custom-data:
+  alignment: neutral-evil
+  challenge_rating: 15
+  legendary: true
+  source: dnd-5e
+  type: aberration
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-mind-flayer-lich
+x-cortex-type: monster
